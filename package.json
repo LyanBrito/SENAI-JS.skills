@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "node ./src/helpers/fundamentos.js",
     "api": "node ./src/helpers/api.js",
-    "inner": "node ./src/helpers/innerhtml.js"
+    "inner": "node ./src/helpers/innerhtml.js",
+    "ternario": "node ./src/helpers/ternario.js",
+    "if": "node ./src/helpers/ifElse.js",
+    "case": "node ./src/helpers/switchCase.js"
   },
   "keywords": [],
   "repository": {
